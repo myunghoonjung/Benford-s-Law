@@ -16,3 +16,7 @@
 
 ## 참조 라이브러리
 numpy, matplotlib 두개만 설치하시면 됩니다.
+
+## 결과
+<img width="910" alt="스크린샷 2025-01-16 오전 8 22 00" src="https://github.com/user-attachments/assets/a713df91-083a-4f01-a8e2-3c885117a368" />
+
